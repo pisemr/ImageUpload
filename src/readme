@@ -1,6 +1,7 @@
-The three tools I used include:
+Used create-react-app as boiler plate.
 
-react-dropzone to accept an image from a user
+The three tools I used include:
+react-dropzone to accept an image from a user in the dropbox.
 superagent to transfer the uploaded image
 Cloudinary to store and manipulate the images
 
